@@ -1,0 +1,3 @@
+Test output for fprintf
+Test output for fputs
+
